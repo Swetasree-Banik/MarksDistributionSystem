@@ -124,4 +124,4 @@ The following external libraries are included in the `lib/` folder:
 # 👩‍🔬 Author
 
 Swetasree Banik
-M.Sc Minor Project / Deepfake Detection Research
+M.Sc Minor Project
